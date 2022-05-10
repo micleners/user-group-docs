@@ -1,0 +1,24 @@
+- Hello. Welcome to our monthly meeting. At the beginning of the pandemic dsmJS and Web Geeks joined together
+- Event each month focus on new trends and developments in Web Development.
+- If you are ever interested in giving a talk or getting involved in organizing, let us know!
+- Want to know more? Check out twitter and websites:
+  - Des Moines Web Geeks
+    - https://www.dsmwebgeeks.com/
+    - https://twitter.com/dsmwebgeeks
+  - dsmJS
+    - http://dsmjs.com/
+    - https://twitter.com/desmoinesjs
+  - Des Moines Web Collective
+    - https://dsmwebcollective.com/
+    - https://github.com/dsmwebcollective/user-group-docs
+    - https://twitter.com/dmwebcollective
+- Join us on our slack:
+  - https://join.slack.com/t/dsmwebcollective/shared_invite/zt-13fh4xxxj-cDLUHD3IHcsYFRlDBgdwVw
+- Join us monthly over zoom or watch livestream on twitch.
+- Web Geeks and dsmJS both run off of volunteers and sponsorship
+  - Tonight’s sponsor:
+- Break into small groups:
+  - Where you are located?
+  - Name?
+  - Where you are working?
+  - What brings you here tonight?
